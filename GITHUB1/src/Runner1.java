@@ -6,6 +6,9 @@ public class Runner1 {
 		System.out.println("GITHUB");
 		System.out.println("DUPADUPA2"); 
 		System.out.println("DEG: TRZECI");   
+		
+		System.out.println("kolejny");
+		System.out.println("kolejny");
 	}
 
 }
