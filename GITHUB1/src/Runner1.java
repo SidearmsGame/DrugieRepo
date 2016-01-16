@@ -9,6 +9,7 @@ public class Runner1 {
 		
 		System.out.println("kolejny");
 		System.out.println("kolejny");
+		System.out.println("DEG: ooo");
 	}
 
 }
