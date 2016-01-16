@@ -5,7 +5,7 @@ public class Runner1 {
 		// TODO Auto-generated method stub
 		System.out.println("GITHUB");
 		System.out.println("DUPADUPA2"); 
-		System.out.println("DEG: TRZECI");
+		System.out.println("DEG: TRZECI");   
 	}
 
 }
